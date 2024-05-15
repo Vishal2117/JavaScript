@@ -3,11 +3,11 @@
 // variables are initiate with var keyword
 
 //declaring variable
-var firstName = "Vishal"
+var firstName = "Vishal";
 
 //use variable
 // console.log(firstName)
 
 //change value
-firstName = "Vrusti"  //we can change the value of variable 
-console.log(firstName)
+firstName = "Vrusti";  //we can change the value of variable 
+console.log(firstName);
