@@ -4,7 +4,7 @@
 //number1 (valid)
 
 var value1 = 22;
-console.log(value1)
+console.log(value1);
 
 // for declaring variable name use underscore or dollar symbol
 //first_name (valid)
