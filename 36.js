@@ -1,4 +1,4 @@
-//objects in javascript
+//objects
 
 //objects is reference type
 //arrays are good but not sufficient
