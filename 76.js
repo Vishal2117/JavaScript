@@ -1,4 +1,4 @@
-//short synatx
+//short syntax
 
 // const user = {
 //     firstName: 'vishal',
